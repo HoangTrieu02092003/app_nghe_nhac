@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "136531691074",
+    "project_id": "hoangtrieu-firebase-15bd4",
+    "storage_bucket": "hoangtrieu-firebase-15bd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136531691074:android:84ef5a8d9da78f7e9bcfdb",
+        "android_client_info": {
+          "package_name": "com.example.spotify_clone_with_flutter_firebase_and_audio_handler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136531691074-3ubsvv8gadt4f9ivinftdon4t5lfou8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQXrtcKBJZIWPhDKdAEghp5QBxDfSPsmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136531691074-3ubsvv8gadt4f9ivinftdon4t5lfou8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136531691074-3po69imaj5b6tpnigjul162aelvirbet.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.edu.ntu.hoangtrieu.hoangtrieuFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136531691074:android:19c28b4c1a28f5fd9bcfdb",
+        "android_client_info": {
+          "package_name": "vn.edu.ntu.hoangtrieu.app_nghe_nhac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136531691074-3ubsvv8gadt4f9ivinftdon4t5lfou8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQXrtcKBJZIWPhDKdAEghp5QBxDfSPsmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136531691074-3ubsvv8gadt4f9ivinftdon4t5lfou8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136531691074-3po69imaj5b6tpnigjul162aelvirbet.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.edu.ntu.hoangtrieu.hoangtrieuFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136531691074:android:6694dc651e833b5b9bcfdb",
+        "android_client_info": {
+          "package_name": "vn.edu.ntu.hoangtrieu.hoang_trieu_63131555"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136531691074-3ubsvv8gadt4f9ivinftdon4t5lfou8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQXrtcKBJZIWPhDKdAEghp5QBxDfSPsmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136531691074-3ubsvv8gadt4f9ivinftdon4t5lfou8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136531691074-3po69imaj5b6tpnigjul162aelvirbet.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.edu.ntu.hoangtrieu.hoangtrieuFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136531691074:android:c5e5f88cebe0a6299bcfdb",
+        "android_client_info": {
+          "package_name": "vn.edu.ntu.hoangtrieu.hoangtrieu_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136531691074-3ubsvv8gadt4f9ivinftdon4t5lfou8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQXrtcKBJZIWPhDKdAEghp5QBxDfSPsmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136531691074-3ubsvv8gadt4f9ivinftdon4t5lfou8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136531691074-3po69imaj5b6tpnigjul162aelvirbet.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.edu.ntu.hoangtrieu.hoangtrieuFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
